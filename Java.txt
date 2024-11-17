@@ -1,1 +1,2 @@
 Question :there is another way , instead of writing a method many times with different parameters to achieve method overloading ?? 
+There is a another way to acheieve method overloading  is the varargs example is 

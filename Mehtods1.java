@@ -17,6 +17,8 @@ class  MethodOverInstead
 			//when ever we are using var args best to use for loop of it 
 			System.out.print(i);
 		}
+		System.out.println();
+		System.out.println(count);
 
 	}
 }
